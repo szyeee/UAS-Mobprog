@@ -1,0 +1,314 @@
+[
+  {
+    "id": "sushi_01",
+    "name": "Salmon Nigiri",
+    "description": "Nigiri dengan irisan salmon segar",
+    "price": 40000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_01.jpeg"
+  },
+  {
+    "id": "sushi_02",
+    "name": "Tuna Nigiri",
+    "description": "Nigiri dengan irisan tuna",
+    "price": 45000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_02.jpeg"
+  },
+  {
+    "id": "sushi_03",
+    "name": "Ebi Nigiri",
+    "description": "Nigiri dengan udang rebus segar",
+    "price": 35000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_03.jpeg"
+  },
+  {
+    "id": "sushi_04",
+    "name": "California Roll",
+    "description": "Roll isi kepiting, alpukat, mentimun",
+    "price": 55000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_04.jpeg"
+  },
+  {
+    "id": "sushi_05",
+    "name": "Spicy Tuna Roll",
+    "description": "Roll isi tuna pedas",
+    "price": 60000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_05.jpeg"
+  },
+  {
+    "id": "sushi_06",
+    "name": "Dragon Roll",
+    "description": "Roll isi udang, alpukat, saus manis",
+    "price": 70000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_06.jpeg"
+  },
+  {
+    "id": "sushi_07",
+    "name": "Salmon Roll",
+    "description": "Roll isi salmon, mentimun",
+    "price": 52000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_07.jpeg"
+  },
+  {
+    "id": "sushi_08",
+    "name": "Tuna Roll",
+    "description": "Roll isi tuna, alpukat",
+    "price": 52000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_08.jpeg"
+  },
+  {
+    "id": "sushi_09",
+    "name": "Vegetable Roll",
+    "description": "Roll isi sayuran segar",
+    "price": 30000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_09.jpeg"
+  },
+  {
+    "id": "sushi_10",
+    "name": "Unagi Nigiri",
+    "description": "Nigiri dengan belut panggang",
+    "price": 65000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_10.jpeg"
+  },
+  {
+    "id": "sushi_11",
+    "name": "Salmon Avocado Roll",
+    "description": "Roll isi salmon dan alpukat",
+    "price": 58000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_11.jpeg"
+  },
+  {
+    "id": "sushi_12",
+    "name": "Philadelphia Roll",
+    "description": "Roll isi salmon dan cream cheese",
+    "price": 60000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_12.jpeg"
+  },
+  {
+    "id": "sushi_13",
+    "name": "Spicy Salmon Roll",
+    "description": "Roll isi salmon pedas",
+    "price": 60000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_13.jpeg"
+  },
+  {
+    "id": "sushi_14",
+    "name": "Shrimp Tempura Roll",
+    "description": "Roll isi tempura udang",
+    "price": 64000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_14.jpeg"
+  },
+  {
+    "id": "sushi_15",
+    "name": "Rainbow Roll",
+    "description": "Roll isi berbagai ikan di atasnya",
+    "price": 75000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_15.jpeg"
+  },
+  {
+    "id": "sushi_16",
+    "name": "California Hand Roll",
+    "description": "Hand roll isi kepiting dan alpukat",
+    "price": 48000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_16.jpeg"
+  },
+  {
+    "id": "sushi_17",
+    "name": "Salmon Hand Roll",
+    "description": "Hand roll isi salmon segar",
+    "price": 48000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_17.jpeg"
+  },
+  {
+    "id": "sushi_18",
+    "name": "Tuna Hand Roll",
+    "description": "Hand roll isi tuna segar",
+    "price": 48000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_18.jpeg"
+  },
+  {
+    "id": "sushi_22",
+    "name": "Unagi Roll",
+    "description": "Roll isi belut panggang",
+    "price": 70000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_22.jpeg"
+  },
+  {
+    "id": "sushi_24",
+    "name": "Negitoro Roll",
+    "description": "Roll isi tuna dan daun bawang",
+    "price": 72000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_24.jpeg"
+  },
+  {
+    "id": "sushi_25",
+    "name": "Ikura Nigiri",
+    "description": "Nigiri isi telur ikan salmon",
+    "price": 78000,
+    "category": "Sushi",
+    "imageUrl": "assets/images/sushi/sushi_25.jpeg"
+  },
+  {
+    "id": "drink_01",
+    "name": "Green Tea",
+    "description": "Teh hijau panas",
+    "price": 12000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_01.jpeg"
+  },
+  {
+    "id": "drink_02",
+    "name": "Oolong Tea",
+    "description": "Teh oolong",
+    "price": 13000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_02.jpeg"
+  },
+  {
+    "id": "drink_03",
+    "name": "Soda",
+    "description": "Minuman soda dingin",
+    "price": 10000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_03.jpeg"
+  },
+  {
+    "id": "drink_04",
+    "name": "Orange Juice",
+    "description": "Jus jeruk segar",
+    "price": 15000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_04.jpeg"
+  },
+  {
+    "id": "drink_05",
+    "name": "Apple Juice",
+    "description": "Jus apel segar",
+    "price": 15000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_05.jpeg"
+  },
+  {
+    "id": "drink_06",
+    "name": "Milk Tea",
+    "description": "Teh susu dingin",
+    "price": 17000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_06.jpeg"
+  },
+  {
+    "id": "drink_07",
+    "name": "Coffee",
+    "description": "Kopi panas",
+    "price": 15000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_07.jpeg"
+  },
+  {
+    "id": "drink_08",
+    "name": "Lemon Tea",
+    "description": "Teh lemon dingin",
+    "price": 13000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_08.jpeg"
+  },
+  {
+    "id": "drink_09",
+    "name": "Coca Cola",
+    "description": "Minuman soda cola",
+    "price": 10000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_09.jpeg"
+  },
+  {
+    "id": "drink_10",
+    "name": "Mineral Water",
+    "description": "Air mineral dingin",
+    "price": 8000,
+    "category": "Minuman",
+    "imageUrl": "assets/images/drinks/drink_10.jpeg"
+  },
+  {
+    "id": "side_01",
+    "name": "Edamame",
+    "description": "Kedelai rebus",
+    "price": 20000,
+    "category": "Side Dish",
+    "imageUrl": "assets/images/side_dish/side_01.jpeg"
+  },
+  {
+    "id": "side_02",
+    "name": "Gyoza",
+    "description": "Pangsit goreng",
+    "price": 25000,
+    "category": "Side Dish",
+    "imageUrl": "assets/images/side_dish/side_02.jpeg"
+  },
+  {
+    "id": "side_03",
+    "name": "Miso Soup",
+    "description": "Sup miso hangat",
+    "price": 12000,
+    "category": "Side Dish",
+    "imageUrl": "assets/images/side_dish/side_03.jpeg"
+  },
+  {
+    "id": "side_04",
+    "name": "Takoyaki",
+    "description": "Bakso gurita panggang",
+    "price": 30000,
+    "category": "Side Dish",
+    "imageUrl": "assets/images/side_dish/side_04.jpeg"
+  },
+  {
+    "id": "side_05",
+    "name": "Tamago",
+    "description": "Telur dadar Jepang",
+    "price": 18000,
+    "category": "Side Dish",
+    "imageUrl": "assets/images/side_dish/side_05.jpeg"
+  },
+  {
+    "id": "cond_01",
+    "name": "Wasabi",
+    "description": "Pasta wasabi pedas",
+    "price": 5000,
+    "category": "Condiment",
+    "imageUrl": "assets/images/condiment/cond_01.jpeg"
+  },
+  {
+    "id": "cond_02",
+    "name": "Shoyu",
+    "description": "Kecap asin Jepang",
+    "price": 3000,
+    "category": "Condiment",
+    "imageUrl": "assets/images/condiment/cond_02.jpeg"
+  },
+  {
+    "id": "cond_03",
+    "name": "Ginger",
+    "description": "Jahe acar",
+    "price": 4000,
+    "category": "Condiment",
+    "imageUrl": "assets/images/condiment/cond_03.jpeg"
+  }
+]
