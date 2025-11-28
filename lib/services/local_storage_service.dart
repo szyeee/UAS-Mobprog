@@ -8,7 +8,7 @@ class LocalStorageService {
   static Future<void> init() async {
     await Hive.initFlutter();
     await Hive.openBox(cartBox);
-    await Hive.openBox(reviewsBox); // <- buka box reviews di init
+    await Hive.openBox(reviewsBox); 
   }
 
   static Box getCartBox() => Hive.box(cartBox);
