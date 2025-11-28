@@ -1,3 +1,4 @@
+// lib/models/cart_item.dart
 import 'product.dart';
 
 class CartItem {
