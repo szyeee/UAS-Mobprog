@@ -10,7 +10,7 @@
   {
     "id": "sushi_02",
     "name": "Tuna Nigiri",
-    "description": "Nigiri dengan irisan tuna",
+    "description": "Nigiri dengan irisan tuna segar",
     "price": 45000,
     "category": "Sushi",
     "imageUrl": "assets/images/sushi/sushi_02.jpeg"
@@ -26,7 +26,7 @@
   {
     "id": "sushi_04",
     "name": "California Roll",
-    "description": "Roll isi kepiting, alpukat, mentimun",
+    "description": "Roll isi kepiting, alpukat, mentimun segar",
     "price": 55000,
     "category": "Sushi",
     "imageUrl": "assets/images/sushi/sushi_04.jpeg"
